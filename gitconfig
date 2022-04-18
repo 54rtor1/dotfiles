@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 1929sartori@Gmail.com
+	name = julia sartori
